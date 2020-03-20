@@ -1,2 +1,2 @@
-# UdemyDrumKit
-Udemy Drum Kit Challenge
+# DrumKit
+Drum Kit Challenge
